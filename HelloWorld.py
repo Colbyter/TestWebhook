@@ -2,15 +2,3 @@ dsdf
 adfssd
 dsdsdf
 fdfdf
-dfdfdf
-sdfsdffsdf
-efesfsdf
-dfdfdfd
-dffsdf
-dfgdfgdfdfdsdfsdfdsfsdf
-sfsdfsdfsFDdsfsdfsdsfsdfs
-sfsdfssmmDSFSDF
-dsdffdfdsfsd
-sdfsdf
-dfsdf
-NBBdffsdf
