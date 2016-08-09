@@ -10,7 +10,7 @@ def index(request):
 
     #for key in res:
         
-      # mess = res["salut"]
+      # mess = res["salut"]`dsdfsdf
     
 
 run_itty(server='wsgiref', host='localhost', port=8003)
